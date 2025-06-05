@@ -173,14 +173,14 @@ Feel free to open issues or submit pull requests for improvements, bug fixes, or
 
 ## Contact
 
-**Author:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** [yourusername](https://github.com/yourusername)
+**Author:** Abhinav S pillai  
+**Email:** abhinavspillai2005@gmail.com  
+**GitHub:** Abhinav-S-Pillai
 
 ---
 
 > **Note for Beginners:**  
 > This project is designed to be beginner-friendly. Follow the installation and usage instructions carefully, and you'll be able to run the app without any issues. If you encounter problems, refer to the troubleshooting section or contact the author.
 
-> **Note for Interviewers:**  
+
 > This project demonstrates practical skills in computer vision, deep learning, real-time user interfaces, and Python development. The code is well-commented and modular, making it easy to extend or adapt for other gesture-based applications.
