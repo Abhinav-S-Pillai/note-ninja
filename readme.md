@@ -55,7 +55,7 @@ This project is designed to showcase practical skills in computer vision, deep l
 
 ## Demo
 
-> **Tip:** Add your own GIF or screenshot here to visually demonstrate the app in action.
+https://github.com/user-attachments/assets/1d346acc-64a9-4f77-86a9-3c1046b69f88
 
 ---
 
